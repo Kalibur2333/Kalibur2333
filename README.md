@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 It's Alex
+
+### A Monash student who does not even know what Sir Monash looks like
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
