@@ -8,7 +8,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
 </picture>
 
-<a> 
+<a align="left"> 
   <a href="https://github.com/Kalibur2333"><img alt="Kalibur2333's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kalibur2333&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="100%"/></a>
 </a>
 
